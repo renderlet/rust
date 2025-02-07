@@ -12,11 +12,3 @@
 
 [[dependencies]]
   uri = "docker://docker.io/paketobuildpacks/syft:2.7.0"
-
-[[targets]]
-  arch = "amd64"
-  os = "linux"
-
-[[targets]]
-  arch = "arm64"
-  os = "linux"
